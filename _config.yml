@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "조승호"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/파일이름.파일형식"
   bio              : " 행복한 학생 "
   location         : "대한민국, 용인"
   email            : " cho.seungho23@gmail.com"
